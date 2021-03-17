@@ -1,7 +1,7 @@
 .title{
 	position: relative-right;
 	margin-bottom: 130px;	
-	font-family: 'Snell Roundhand';
+	font-family: 'Blogger sans';
 	font-weight: 100;
 	font-size: 85px;
 	color: #000000;
@@ -150,11 +150,11 @@ h1{
 	}
 }
 
-p{
+/*p{
 	font-size: 16px;
 	font-style: italic;
 	color: #818181;
-}
+}*/
 a{
 	transition: all 0.3s ease-in-out;
 }
